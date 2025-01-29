@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Airlines Book App</string>
+    <string name="ticket_title">Daftar Tiket</string>
+    <string name="description">Deskripsi</string>
+    <string name="airlines_detail">Detail Pesawat</string>
+    <string name="book_date">Date Booked</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About Me</string>
+    <string name="name_about">M. Rizky Haksono</string>
+    <string name="email_about">mrizkyhaksono@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Pesawat Air Asia</item>
+        <item>Pesawat BBN</item>
+        <item>Pesawat Boeing</item>
+        <item>Pesawat Citilink</item>
+        <item>Pesawat Elysian</item>
+        <item>Pesawat Emirates</item>
+        <item>Pesawat Garuda Indonesia</item>
+        <item>Pesawat Japan</item>
+        <item>Pesawat Korea</item>
+        <item>Pesawat Pelita</item>
+    </string-array>
+
+    <string-array name="book_date">
+        <item>2021-01-01</item>
+        <item>2021-01-02</item>
+        <item>2021-01-03</item>
+        <item>2021-01-04</item>
+        <item>2021-01-05</item>
+        <item>2021-01-06</item>
+        <item>2021-01-07</item>
+        <item>2021-01-08</item>
+        <item>2021-01-09</item>
+        <item>2021-01-10</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>AirAsia adalah maskapai penerbangan bertarif rendah (LCC) yang berbasis di Malaysia. Mereka terkenal dengan harga tiket yang terjangkau dan jaringan rute yang luas, terutama di Asia Tenggara. AirAsia mengoperasikan armada pesawat Airbus A320 dan A330. Mereka menawarkan layanan penerbangan domestik dan internasional.</item>
+        <item>BBN (Badan Usaha Milik Negara) dalam konteks ini kemungkinan merujuk pada pesawat yang dioperasikan oleh perusahaan penerbangan milik negara di Indonesia. Namun, tidak ada maskapai penerbangan yang bernama "BBN". Kemungkinan yang dimaksud adalah pesawat yang dioperasikan oleh maskapai penerbangan milik negara seperti Garuda Indonesia atau Pelita Air.</item>
+        <item>Boeing adalah produsen pesawat terbang komersial dan militer terkemuka di dunia yang berbasis di Amerika Serikat. Mereka merancang, memproduksi, dan menjual berbagai jenis pesawat, termasuk seri 737, 747, 777, dan 787 Dreamliner. Pesawat Boeing dikenal dengan teknologi canggih, efisiensi bahan bakar, dan kapasitas penumpang yang besar.</item>
+        <item>Citilink adalah anak perusahaan dari Garuda Indonesia yang beroperasi sebagai maskapai penerbangan bertarif rendah (LCC). Mereka melayani rute domestik di Indonesia dan beberapa rute internasional. Citilink menggunakan pesawat Airbus A320 dan ATR 72.</item>
+        <item>Elysian adalah nama yang mungkin merujuk pada konsep pesawat masa depan atau pesawat fiksi. Tidak ada maskapai penerbangan komersial atau produsen pesawat yang dikenal dengan nama "Elysian".</item>
+        <item>Emirates adalah maskapai penerbangan internasional yang berbasis di Dubai, Uni Emirat Arab. Mereka dikenal dengan layanan premium, armada pesawat modern, dan jaringan rute global yang luas. Emirates mengoperasikan pesawat Airbus A380 (pesawat penumpang terbesar di dunia) dan Boeing 777.</item>
+        <item>Garuda Indonesia adalah maskapai penerbangan nasional Indonesia. Mereka menawarkan layanan penerbangan domestik dan internasional dengan berbagai kelas layanan. Garuda Indonesia dikenal dengan layanan berkualitas tinggi dan standar keselamatan yang ketat. Mereka mengoperasikan berbagai jenis pesawat, termasuk Airbus A330, Boeing 737, dan Boeing 777.</item>
+        <item>"Pesawat Japan" kemungkinan merujuk pada pesawat yang dioperasikan oleh maskapai penerbangan Jepang, seperti Japan Airlines (JAL) atau All Nippon Airways (ANA). Maskapai penerbangan Jepang dikenal dengan layanan yang sangat baik, ketepatan waktu, dan standar keselamatan yang tinggi.</item>
+        <item>"Pesawat Korea" kemungkinan merujuk pada pesawat yang dioperasikan oleh maskapai penerbangan Korea Selatan, seperti Korean Air atau Asiana Airlines. Maskapai penerbangan Korea Selatan juga dikenal dengan layanan yang baik, armada modern, dan standar keselamatan yang tinggi.</item>
+        <item>Pelita Air adalah maskapai penerbangan di Indonesia yang sebelumnya fokus pada penerbangan charter. Saat ini, Pelita Air telah mulai melayani penerbangan berjadwal domestik. Mereka mengoperasikan pesawat Airbus A320.</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>
+            Pesawat Air Asia adalah salah satu maskapai penerbangan bertarif rendah terbesar di Asia. Dikenal dengan layanan yang efisien dan harga yang terjangkau, Air Asia menghubungkan berbagai destinasi di Asia dan sekitarnya. Pesawat ini menawarkan kenyamanan dasar dengan pilihan tambahan seperti makanan dan bagasi yang dapat dipesan sesuai kebutuhan. Air Asia juga terkenal dengan slogan "Now Everyone Can Fly", yang mencerminkan komitmen mereka untuk membuat perjalanan udara lebih mudah diakses oleh semua orang.
+        </item>
+            <item>
+            Pesawat BBN (Batik Air) adalah maskapai penerbangan full-service yang berbasis di Indonesia. Sebagai bagian dari Lion Air Group, BBN menawarkan pengalaman terbang yang nyaman dengan layanan seperti makanan gratis, hiburan dalam penerbangan, dan kursi yang lega. Pesawat ini sering digunakan untuk rute domestik dan internasional, memberikan pilihan yang lebih premium bagi penumpang yang mencari kenyamanan tambahan.
+        </item>
+            <item>
+            Pesawat Boeing adalah salah satu produsen pesawat terbang terkemuka di dunia. Pesawat Boeing dikenal karena teknologi canggih, keandalan, dan efisiensi bahan bakar. Model seperti Boeing 737, 747, dan 787 Dreamliner digunakan oleh banyak maskapai besar di seluruh dunia. Pesawat Boeing sering dipilih untuk rute jarak menengah hingga jarak jauh, menawarkan kenyamanan dan keamanan yang tinggi bagi penumpang.
+        </item>
+            <item>
+            Pesawat Citilink adalah maskapai penerbangan bertarif rendah yang berbasis di Indonesia, bagian dari Garuda Indonesia Group. Citilink fokus pada rute domestik dan beberapa rute internasional, menawarkan harga yang kompetitif dengan layanan dasar. Pesawat ini cocok untuk traveler yang mencari opsi penerbangan ekonomis tanpa mengorbankan keamanan dan kenyamanan.
+        </item>
+            <item>
+            Pesawat Elysian adalah maskapai fiktif yang sering muncul dalam cerita atau imajinasi tentang penerbangan mewah. Pesawat ini digambarkan sebagai pesawat dengan desain futuristik, layanan premium, dan fasilitas canggih. Elysian sering dikaitkan dengan pengalaman terbang yang eksklusif dan mewah, cocok untuk kalangan elite atau mereka yang mencari pengalaman penerbangan yang tak terlupakan.
+        </item>
+            <item>
+            Pesawat Emirates adalah maskapai penerbangan internasional yang berbasis di Dubai, Uni Emirat Arab. Dikenal dengan layanan mewah dan armada pesawat canggih seperti Airbus A380 dan Boeing 777, Emirates menawarkan pengalaman terbang yang premium. Fasilitas seperti sistem hiburan dalam penerbangan yang lengkap, kursi yang nyaman, dan layanan kuliner berkualitas tinggi membuat Emirates menjadi pilihan utama untuk perjalanan jarak jauh.
+        </item>
+            <item>
+            Pesawat Garuda Indonesia adalah maskapai nasional Indonesia yang terkenal dengan layanan full-service-nya. Garuda Indonesia menawarkan pengalaman terbang yang nyaman dengan fasilitas seperti kursi ekstra lega, makanan lezat, dan hiburan dalam penerbangan. Pesawat ini sering digunakan untuk rute domestik dan internasional, dengan reputasi yang baik dalam hal keamanan dan kenyamanan.
+        </item>
+            <item>
+            Pesawat Japan Airlines (JAL) adalah maskapai penerbangan nasional Jepang yang terkenal dengan layanan berkualitas tinggi dan ketepatan waktu. JAL menawarkan pengalaman terbang yang nyaman dengan fasilitas modern dan layanan ramah. Pesawat ini sering digunakan untuk rute domestik di Jepang serta rute internasional ke berbagai destinasi di seluruh dunia.
+        </item>
+            <item>
+            Pesawat Korean Air adalah maskapai penerbangan nasional Korea Selatan yang dikenal dengan layanan premium dan armada pesawat canggih. Korean Air menawarkan pengalaman terbang yang mewah dengan fasilitas seperti kursi kelas bisnis dan first class yang nyaman, serta sistem hiburan dalam penerbangan yang lengkap. Pesawat ini sering digunakan untuk rute jarak jauh, menghubungkan Korea Selatan dengan berbagai destinasi global.
+        </item>
+            <item>
+            Pesawat Pelita Air adalah maskapai penerbangan Indonesia yang fokus pada layanan charter dan kargo. Meskipun tidak sepopuler maskapai penumpang lainnya, Pelita Air memainkan peran penting dalam mendukung logistik dan transportasi di Indonesia. Pesawat ini juga digunakan untuk layanan khusus seperti evakuasi medis dan transportasi VIP.
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pesawat_airasia</item>
+        <item>@drawable/pesawat_bbn</item>
+        <item>@drawable/pesawat_boeing</item>
+        <item>@drawable/pesawat_citilink</item>
+        <item>@drawable/pesawat_elysian</item>
+        <item>@drawable/pesawat_emirates</item>
+        <item>@drawable/pesawat_garuda</item>
+        <item>@drawable/pesawat_japan</item>
+        <item>@drawable/pesawat_korea</item>
+        <item>@drawable/pesawat_pelita</item>
+    </integer-array>
+</resources>
