@@ -19,9 +19,12 @@ This is a final submission for the basic android class at Dicoding. This project
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot-1.png)
-![Screenshot 2](./screenshots/screenshot-1.png)
-![Screenshot 3](./screenshots/screenshot-1.png)
+| Screenshot | Description |
+|------------|-------------|
+| <img src="./screenshots/screenshot-1.png" alt="Home Screen" height="200"> | Home Screen |
+| <img src="./screenshots/screenshot-2.png" alt="Detail Screen" height="200"> | Detail Screen |
+| <img src="./screenshots/screenshot-3.png" alt="About Screen" height="200"> | About Screen |
+| <img src="./screenshots/screenshot-4.png" alt="Grid Screen" height="200"> | Grid Screen |
 
 ## Author
 
