@@ -67,6 +67,7 @@ class MainActivity : AppCompatActivity() {
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
         val dataBook = resources.getStringArray(R.array.book_date)
         val dataDetail = resources.getStringArray(R.array.detail)
+        val paymentMethod = resources.getStringArray(R.array.payment_method)
         val listAirline = ArrayList<Airlines>()
         for (position in dataName.indices) {
             val airline = Airlines(
@@ -74,7 +75,8 @@ class MainActivity : AppCompatActivity() {
                 dataDescription[position],
                 dataPhoto.getResourceId(position, -1),
                 dataBook[position],
-                dataDetail[position]
+                dataDetail[position],
+                paymentMethod[position]
             )
             listAirline.add(airline)
         }

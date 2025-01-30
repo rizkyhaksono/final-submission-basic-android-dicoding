@@ -12,6 +12,14 @@ class About : AppCompatActivity() {
 
         supportActionBar?.apply {
             title = getString(R.string.about)
+            setDisplayHomeAsUpEnabled(true)
+            setDisplayShowHomeEnabled(true)
+            setDisplayShowTitleEnabled(true)
         }
+    }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return true
     }
 }

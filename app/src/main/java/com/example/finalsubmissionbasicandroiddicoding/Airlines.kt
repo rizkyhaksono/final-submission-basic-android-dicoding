@@ -9,5 +9,6 @@ data class Airlines (
     val description: String,
     val photo: Int,
     val book: String,
-    val detail: String
+    val detail: String,
+    val paymentMethod: String
 ): Parcelable

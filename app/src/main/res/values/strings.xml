@@ -10,6 +10,13 @@
     <string name="name_about">M. Rizky Haksono</string>
     <string name="email_about">mrizkyhaksono@gmail.com</string>
 
+    <string name="flight_details">Informasi Penerbangan</string>
+    <string name="payment_details">Metode Pembayaran</string>
+    <string name="booking_info">Informasi Pemesanan</string>
+    <string name="flight_duration">Durasi Penerbangan: 2 jam 30 menit</string>
+    <string name="flight_route">Jakarta (CGK) → Surabaya (SUB)</string>
+    <string name="booking_instructions">Harap tiba di bandara minimal 2 jam sebelum keberangkatan. Bawa identitas yang valid untuk verifikasi. Check-in dapat dilakukan melalui website atau counter bandara.</string>
+
     <string-array name="data_name">
         <item>Pesawat Air Asia</item>
         <item>Pesawat BBN</item>
@@ -80,6 +87,19 @@
             <item>
             Pesawat Pelita Air adalah maskapai penerbangan Indonesia yang fokus pada layanan charter dan kargo. Meskipun tidak sepopuler maskapai penumpang lainnya, Pelita Air memainkan peran penting dalam mendukung logistik dan transportasi di Indonesia. Pesawat ini juga digunakan untuk layanan khusus seperti evakuasi medis dan transportasi VIP.
         </item>
+    </string-array>
+
+    <string-array name="payment_method">
+        <item>Transfer Bank</item>
+        <item>Virtual Account</item>
+        <item>Indomaret</item>
+        <item>Alfamart</item>
+        <item>GoPay</item>
+        <item>OVO</item>
+        <item>Dana</item>
+        <item>LinkAja</item>
+        <item>ShopeePay</item>
+        <item>PayPal</item>
     </string-array>
 
     <integer-array name="data_photo">
